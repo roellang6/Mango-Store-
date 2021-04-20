@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mango Store</string>
+    <string name="no_network">Connect to a network</string>
+
+    <string name="downserver">Unable to connect to server</string>
+
+    <string name="savetofav">Are you sure you want to SAVE this to favorites?</string>
+    <string name="deltofav">Are you sure you want to DELETE this to favorites?</string>
+
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <string name="defaulttxt">Unspecify (Unabridged)</string>
+
+    <string name="mores">view more</string>
+    <string name="lesss">hide</string>
+
+    <string name="favorite">My Favorites</string>
+
+    <string name="emptyfav">You don`t have Mango Favorites</string>
+    <string name="addfav">Add Mango Favorites</string>
+
+</resources>
