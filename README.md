@@ -7,7 +7,7 @@ Mango store project application is the list of movie indicated the Genre, Artist
 
 ## Installation
 
-This application has a size of 5.1MB.
+This application has a size of 4.31MB.
 They require an Internet connection.
 You can install in different android phone with android version 5.0 up
 
